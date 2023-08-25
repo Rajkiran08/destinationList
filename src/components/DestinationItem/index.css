@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.bg-img{
+    list-style-type: none;
+    background-color: #f1f5f9;
+    border-radius: 12px;
+    border-width: 0px;
+    background-size: cover;
+    padding: 15px;
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.image{
+    height: 250px;
+    width: 500px;
+}
+.para{
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 500;
+    color:  #000000;
+}
